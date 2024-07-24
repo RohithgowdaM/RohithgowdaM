@@ -2,12 +2,12 @@
 <h3 align="center">Student at RV College of Engineering, Bangalore🌟.</h3>
 
 <br>
-
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=RohithgowdaM&label=Profile%20views&color=0e75b6&style=flat"
-    alt="RohithgowdaM" /> 
-  </p>
-
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+    
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RohithgowdaM}/count.svg" /></p> 
 <br>
+</div>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="rohithgowdam" /></p>
 
@@ -88,7 +88,8 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[rohithgowdam](https://github.com/RohithgowdaM)
+Credit : [Rohith Gowda M](https://github.com/RohithgowdaM)
+ Last Edited on: 24/78/2024
 <!--
 **RohithgowdaM/RohithgowdaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
