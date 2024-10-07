@@ -9,10 +9,10 @@
 <br>
 </div>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="rohithgowdam" /></p>
+<!--<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="rohithgowdam" /></p>-->
 
 
-- 🌱 I’m currently learning Compiler design and other programming languages
+- 🌱 Passionate computer Science student with a knack for blending creativity and technology. Always eager to learn new skills, whether it's exploring the latest programming languages or innovative design techniques.
 
 - 📫 How to reach me **rohithgowda150503@gmail.com**
 
