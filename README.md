@@ -9,7 +9,6 @@
 <br>
 </div>
 
-<p align="center"><img align="center" src="https://github.com/RohithgowdaM/RohithgowdaM/blob/main/rgm.gif" alt="rohithgowdam" /></p>
 
 
 - 🌱 Passionate **Computer Science** student with a knack for blending **creativity** and **technology**. Constantly on the lookout for opportunities to learn new skills, whether diving into advanced **algorithms**, mastering **new** programming languages, or experimenting with **cutting-edge design** trends.
