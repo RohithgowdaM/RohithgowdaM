@@ -9,14 +9,31 @@
 <br>
 </div>
 
-<!--<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="rohithgowdam" /></p>-->
+<p align="center"><img align="center" src="https://github.com/RohithgowdaM/RohithgowdaM/blob/main/rgm.gif" alt="rohithgowdam" /></p>
 
 
-- 🌱 Passionate computer Science student with a knack for blending creativity and technology. Always eager to learn new skills, whether it's exploring the latest programming languages or innovative design techniques.
+- 🌱 Passionate **Computer Science** student with a knack for blending **creativity** and **technology**. Constantly on the lookout for opportunities to learn new skills, whether diving into advanced **algorithms**, mastering **new** programming languages, or experimenting with **cutting-edge design** trends.
 
 - 📫 How to reach me **rohithgowda150503@gmail.com**
 
-- ⚡ Fun fact :- Sleep and Food are the reasons to live.
+### Fun Facts About Rohith Gowda M!
+- **Trek Enthusiast:** 
+  - Enjoys trekking and exploring nature, always seeking the next adventure in the great outdoors.
+  
+- **Tech Explorer:** 
+  - Constantly experimenting with new programming languages and technologies to expand skill sets and stay updated with industry trends.
+  
+- **Design Rookie:** 
+  - New to the world of design but excited to learn about design sprints and create visually appealing projects.
+  
+- **Passionate Learner:** 
+  - Embraces every opportunity to learn, whether through online courses, workshops, or collaborating with peers.
+  
+- **Travel Buff:** 
+  - Always ready to explore new places.
+  
+- **Creative Problem Solver:** 
+  - Loves tackling complex challenges and finding innovative solutions in both tech and design.
 
 <br>
 
