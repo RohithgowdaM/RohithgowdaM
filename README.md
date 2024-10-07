@@ -5,13 +5,13 @@
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
     
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RohithgowdaM}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RohithgowdaM}/count.svg"  /></p> 
 <br>
 </div>
 
-<p align="center"><img align="center" src="https://github.com/RohithgowdaM/RohithgowdaM/blob/92c4f412b247fa91d3eadbd50967d980ff845731/rgm.gif" alt="rohithgowdam" /></p>
+<p align="center"><img align="center" width="400px" src="https://github.com/RohithgowdaM/RohithgowdaM/blob/92c4f412b247fa91d3eadbd50967d980ff845731/rgm.gif" alt="rohithgowdam" /></p>
 
-
+### Myself
 - 🌱 Passionate **Computer Science** student with a knack for blending **creativity** and **technology**. Constantly on the lookout for opportunities to learn new skills, whether diving into advanced **algorithms**, mastering **new** programming languages, or experimenting with **cutting-edge design** trends.
 
 - 📫 How to reach me **rohithgowda150503@gmail.com**
