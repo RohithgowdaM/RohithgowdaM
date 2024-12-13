@@ -89,7 +89,7 @@
       alt="react" width="40" height="40" /></a> &nbsp;
           <a href="https://github.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg"
-      alt="github" width="40" height="40" /></a>
+      alt="github" width="40" height="40" /></a>&nbsp;
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img 
         src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg"
         alt="git" width="40" height="40"></a>
