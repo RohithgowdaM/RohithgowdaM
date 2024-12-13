@@ -84,12 +84,11 @@
       alt="nodejs" width="40" height="40" /> </a>&nbsp; <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas" width="40" height="40" /> </a>&nbsp;  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+      alt="pandas" width="40" height="40" /> </a> &nbsp;  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /></a> &nbsp;
-          <a href="https://github.com/" target="_blank" rel="noreferrer"> <img
+      alt="react" width="40" height="40" /></a> &nbsp;   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg"
-      alt="github" width="40" height="40" /></a>&nbsp;
+      alt="github" width="40" height="40" /></a> &nbsp;
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img 
         src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg"
         alt="git" width="40" height="40"></a>
