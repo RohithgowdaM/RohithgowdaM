@@ -2,12 +2,6 @@
 <h3 align="center">Student at RV College of Engineering, Bangalore🌟.</h3>
 
 <br>
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-    
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RohithgowdaM}/count.svg"  /></p> 
-<br>
-</div>
 
 <p align="center"><img align="center" width="400px" src="https://github.com/RohithgowdaM/RohithgowdaM/blob/92c4f412b247fa91d3eadbd50967d980ff845731/rgm.gif" alt="rohithgowdam" /></p>
 
